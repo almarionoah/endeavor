@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  background-color: gray;
+}
+
+body {
+  width: 100%;
+  height: 50%;
+  background-color: gray;
+}
+#company_details {
+  padding-left: 2px;
+}
+.header {
+  display: flex;
+  background-color: lightblue;
+}
+img {
+  width: 100px;
+  height: 50px;
+}
+
+section {
+  margin: 50px 10px 1px 10px;
+  background-color: white;
+}
+
+header{
+	text-align: center;
+}
+
+#search_button{
+border-style: outset;
+border-color: white;	
+}
+#search_bar{
+	position:fixed;
+	top: 0;
+	text-align: center;
+}
+#view_job{
+	float: right;
+}
